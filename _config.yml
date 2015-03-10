@@ -1,13 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Rylan Graham
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: rylan.graham@ucalgary.ca
+description: "An urban planner's blog."
+baseurl: ""
+url: "http://rylangraham.github.io"
+twitter_username: rylangraham
+github_username:  RylanGraham
 
 # Build settings
 markdown: kramdown
