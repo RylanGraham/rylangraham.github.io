@@ -11,4 +11,4 @@ Faculty of Environmental Design <br/>
 University of Calgary <br/>
 rylan.graham@ucalgary.ca
 
-![my photo](img/rylangraham-contact.jpg)
+![my photo](/img/rylangraham-contact.jpg)
