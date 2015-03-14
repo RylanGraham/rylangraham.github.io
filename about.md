@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: This is what I do.
-"header-img": "img/awat.jpg"
+"header-img": "img/angkorwat.jpg"
 published: true
 ---
 
