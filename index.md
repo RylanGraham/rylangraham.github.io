@@ -6,6 +6,10 @@ description: This is what I do.
 published: true
 ---
 
-I am a current PhD student studying Urban Planning at the [University of Calgary](http://ucalgary.ca). My scholastic background includes a MA, Planning from the [University of Waterloo](http://www.uwaterloo.ca) and a BA, Geography (Distinction) from the [University of Regina](http://www.uregina.ca). I am a Full Member (MCIP) in the Canadian Institute of Planners and a Registered Professional Planner (RPP). As a planner I have practiced in roles in both the public and private sectors.
+Rylan Graham is an Urban/City/Community Planner currently based in Calgary, Alberta, Canada. He is a Full Member (MCIP) in the Canadian Institute of Planners, and the Alberta Professional Planners Institute (APPI) and is a Registered Professional Planner (RPP). As a planner, Graham has practiced in in both the public and private sectors. In these positions he has been responsible for a wide breadth of projects spanning across various sub-disciplines of planning. Graham has considerable experience in writing, public speaking, stakeholder engagement, and demonstrates a strong knowledge of all things planning.
 
-I have long been interested in the economic, social, and environmental issues that encompass our urban environment. I am particularly engaged in the areas of Smart Growth, creating vibrant, walkable and socially inclusive communities, and planning and design as it relates to the downtown context.
+Currently, Graham is a PhD student studying Urban Planning at the [University of Calgary](http://ucalgary.ca). His scholastic background includes a MA, Planning from the [University of Waterloo](http://www.uwaterloo.ca) and a BA, Geography (Distinction) from the [University of Regina](http://www.uregina.ca).
+
+Graham has long been interested in the economic, social, and environmental issues that encompass our urban environment. He is constantly striving to make our communities more liveable and remains an active and engaged citizen.
+
+Graham can be contacted to discuss potential employment, or research opportunities. 
