@@ -6,10 +6,10 @@ description: This is what I do.
 published: true
 ---
 
-Rylan Graham, B.A., M.A., MCIP, RPP is a City Planner currently based in Calgary, Alberta, Canada. He is a Full Member (MCIP) in the Canadian Institute of Planners, and the Alberta Professional Planners Institute (APPI) and is a Registered Professional Planner (RPP). As a planner, Rylan has practiced in both the public and private sectors. In these positions he has been responsible for a wide breadth of projects spanning across various sub-disciplines of planning. Graham has considerable experience in writing, public speaking, stakeholder engagement, and demonstrates a strong knowledge of all things planning.
+Hi! Thanks for visiing my corner of the internet. I am a City/Urban Planner currently based in Calgary, Alberta, Canada. I am a Full Member (MCIP) and a Registered Professional Planner (RPP) in the Canadian Institute of Planners (CIP), and the Alberta Professional Planners Institute (APPI). Presently, I am a PhD student in Planning at the [University of Calgary](http://ucalgary.ca). Previous to this I received my MA, Planning from the [University of Waterloo](http://www.uwaterloo.ca) and a BA, Geography (Distinction) from the [University of Regina](http://www.uregina.ca).
 
-Currently, Rylan is a PhD student studying Urban Planning at the [University of Calgary](http://ucalgary.ca). His scholastic background includes a MA, Planning from the [University of Waterloo](http://www.uwaterloo.ca) and a BA, Geography (Distinction) from the [University of Regina](http://www.uregina.ca).
+Through my professional experiences, I have been fortunate to practice in both the public and private sectors. My roles and responsibilites have been diverse, spanning across various sub-disciplines of planning. 
 
-Rylan has long been interested in the economic, social, and environmental issues that encompass our urban environment. He is constantly striving to make our communities more liveable and remains an active and engaged citizen.
+I've long been interested in the economic, social, and environmental issues that encompass our urban environments. I enjoy exploring new desitnations while also striving to be an active and engaged citizen wherever I call home.
 
-To discuss potential employment or research opportunities please contact Rylan directly.
+Please don't hesitate to reach out! I enjoy hearing from others who share similar interests or who can provide commentary or feedback on my work. As well, I am happy to hear about any potential employment or research opportunities that my be available. 
