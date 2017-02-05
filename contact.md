@@ -7,7 +7,7 @@ published: true
 ---
 
 ### Rylan Graham, B.A., M.A., MCIP, RPP <br/>
-PhD Student <br/>
+PhD Candidate <br/>
 Faculty of Environmental Design <br/>
 University of Calgary <br/>
 rylan.graham@ucalgary.ca
