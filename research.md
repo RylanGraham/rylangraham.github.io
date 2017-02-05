@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Education and Research"
-description: "Previous education and current research interests"
-header-img: "img/dublin.jpg"
+title: Education and Research
+description: Previous education and current research interests
+header-img: img/dublin.jpg
+published: true
 ---
 I have been fortunate to study at a number of universities across Canada. These opportunities have provided a broader understanding of planning in the Canadian context. My educational background is as follows:
 
@@ -13,7 +14,7 @@ I have been fortunate to study at a number of universities across Canada. These 
 | PhD, Planning | University of Calgary | Calgary, Alberta | In progress |
 
 
-####My current research interests within planning largely centre around the following issues:
+#### My current research interests within planning largely centre around the following issues:
 
 * Growth management through intensification
 * Downtown and inner-city planning and revitalization
@@ -21,4 +22,4 @@ I have been fortunate to study at a number of universities across Canada. These 
 * Comparative urban policy
 * Canadian cities with a particular interest in the mid-sized city
 
-For more information about my current PhD studies, please visit [my page](http://evds.ucalgary.ca/evds_info/profiles/rylan-graham) featured on the University of Calgary website. 
+For more information about my current PhD studies, please visit [my page](http://evds.ucalgary.ca/evds_info/profiles/rylan-graham) featured on the University of Calgary website.
