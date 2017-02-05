@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Contact"
-description: "Get in touch."
-header-img: "img/kohsan.jpg"
+title: Contact
+description: Get in touch.
+header-img: img/kohsan.jpg
+published: true
 ---
 
-###Rylan Graham, B.A., M.A., MCIP, RPP <br/>
+### Rylan Graham, B.A., M.A., MCIP, RPP <br/>
 PhD Student <br/>
 Faculty of Environmental Design <br/>
 University of Calgary <br/>
