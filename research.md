@@ -11,7 +11,7 @@ I have been fortunate to study at a number of universities across Canada. These 
 | ------------- |:-------------:|:---------| --------:|
 | Bachelor of Arts, Geography (Distinction) | University of Regina | Regina, Saskatchewan | 2004 - 2009 |
 | Master of Arts, Planning | University of Waterloo | Waterloo, Ontario | 2010 - 2012 |
-| PhD, Planning | University of Calgary | Calgary, Alberta | In progress |
+| PhD, Planning | University of Calgary | Calgary, Alberta | 2014 - 2019 |
 
 
 #### My current research interests within planning largely centre around the following issues:
