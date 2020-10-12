@@ -12,4 +12,3 @@ Westman Centre for Real Estate Studies <br/>
 University of Calgary <br/>
 rylan.graham@ucalgary.ca
 
-![my photo](/img/rylangraham-contact.jpg)
