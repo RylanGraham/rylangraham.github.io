@@ -7,8 +7,8 @@ published: true
 ---
 
 ### Rylan Graham, PhD RPP MCIP <br/>
-PhD Candidate <br/>
-Faculty of Environmental Design <br/>
+Postdoctoral Research Fellow <br/>
+Westman Centre for Real Estate Studies <br/>
 University of Calgary <br/>
 rylan.graham@ucalgary.ca
 
